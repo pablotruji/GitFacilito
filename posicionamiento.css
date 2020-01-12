@@ -7,6 +7,7 @@
 
 .contenedor .item{
     background: #3b60af;
+    border: 2px solid #a9c8c8;
     grid-column-start:2;
     grid-column-end:4;
 }
