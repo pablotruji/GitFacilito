@@ -6,7 +6,7 @@
 }
 
 .contenedor .item{
-    background: #ff8000;
+    background: #3b60af;
     grid-column-start:2;
     grid-column-end:3;
 }
